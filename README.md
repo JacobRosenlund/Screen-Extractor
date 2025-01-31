@@ -6,4 +6,5 @@ It can also send keystrokes from the outputted text in the output file.
 #### Hotkeys
 
 ALT+M = Extract
+
 ALT+N = Send keystrokes
